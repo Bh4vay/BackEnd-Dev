@@ -11,6 +11,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine. You
 ```sh
 node -v
 
+### Installing
+
 Install the necessary node modules:
 
 ```sh
