@@ -10,10 +10,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine. You
 
 ```sh
 node -v
+npm i
 
-### Installing
-
-Install the necessary node modules:
-
-```sh
-npm install
